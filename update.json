@@ -1,0 +1,9 @@
+{
+  "appid": "__UNI__PROJECTHUB",
+  "name": "项目中枢",
+  "version": "1.1.0",
+  "versionCode": "110",
+  "wgtUrl": "https://nevermiku.github.io/hub-app/projecthub.wgt",
+  "md5": "c72b036123fee4ebe5741727c9fbe947",
+  "note": "1.1.0 修复桌宠立绘遮挡、今日头条多源、Live2D 国内镜像"
+}
